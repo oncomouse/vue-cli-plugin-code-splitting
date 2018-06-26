@@ -12,6 +12,5 @@ module.exports = (api) => {
       });
       tree['src/router.js'] = routerSrc; // eslint-disable-line no-param-reassign
     }
-    return tree;
   });
 };
