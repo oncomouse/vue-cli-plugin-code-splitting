@@ -1,13 +1,13 @@
 {
   "name": "@oncomouse/vue-cli-plugin-code-splitting",
   "version": "1.0.0",
-  "description": "vue-cli 3 plugin to add code splitting to vue-router",
+  "description": "vue-cli 3 plugin to add code splitting to vue-router (if included)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrew Pilsch <apilsch@tamu.edu> (https://andrew.pilsch.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
