@@ -1,6 +1,6 @@
 {
   "name": "@oncomouse/vue-cli-plugin-code-splitting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue-cli 3 plugin to add code splitting to vue-router (if included)",
   "main": "index.js",
   "scripts": {
